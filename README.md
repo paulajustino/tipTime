@@ -2,7 +2,7 @@
 <p align="center">This app calculates tips, where you enter the cost of the service, evaluate the quality of the service, define whether you want to round the final value or not, and the tip value is displayed.</p>
 
 <h1 align="center">
-  <img alt="TipTimeApp" title="#TipTimeApp" src="https://user-images.githubusercontent.com/40619402/154279948-068948e2-7fe9-4a59-874b-37e82d49926a.gif" | <img src="/uploads/eaf14d4fc61fc3ab55a3249f56a5c692/increment_button.gif" width="320" />
+  <img alt="TipTimeApp" title="#TipTimeApp" src="https://user-images.githubusercontent.com/40619402/154279948-068948e2-7fe9-4a59-874b-37e82d49926a.gif" width="320"/>
 </h1>
 
 ### Topics studied in this app:
