@@ -17,3 +17,10 @@
 - How to change the app color theme.
 - How to change the app icon.
 - How to create a more polished UI with Material Design.
+
+### Based on the codelabs:
+- <a href="https://developer.android.com/codelabs/basic-android-kotlin-training-xml-layouts">Create XML layouts for Android</a>
+- <a href="https://developer.android.com/codelabs/basic-android-kotlin-training-tip-calculator">Calculate the tip</a>
+- <a href="https://developer.android.com/codelabs/basic-android-kotlin-training-change-app-theme">Change the app theme</a>
+- <a href="https://developer.android.com/codelabs/basic-android-kotlin-training-change-app-icon">Change the app icon</a>
+- <a href="https://developer.android.com/codelabs/basic-android-kotlin-training-polished-user-experience">Create a more polished user experience</a>
