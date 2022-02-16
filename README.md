@@ -17,6 +17,7 @@
 - How to change the app color theme.
 - How to change the app icon.
 - How to create a more polished UI with Material Design.
+- How to write Instrumentation Tests.
 
 ### Based on the codelabs:
 - <a href="https://developer.android.com/codelabs/basic-android-kotlin-training-xml-layouts">Create XML layouts for Android</a>
